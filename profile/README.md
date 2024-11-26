@@ -38,4 +38,8 @@ We are always looking for talented individuals to join our team and innovative c
 
 Thank you for visiting our GitHub profile! We look forward to connecting with you.
 
-![Team Image](https://your-image-url.com/team.png)
+### MaanOX Views
+counting of visitors to this page in this section started from Nav 27, 2024
+
+![](https://count.getloli.com/@maanox.github.readme?theme=booru-twifanartsfw)
+
