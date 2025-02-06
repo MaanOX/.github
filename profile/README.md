@@ -28,7 +28,7 @@ We pride ourselves on a diverse portfolio, having successfully completed over 50
 
 - **Website**: [maanox.krishanmaan.com](http://maanox.krishanmaan.com)
 - **LinkedIn**: [MaanOX LinkedIn](https://www.linkedin.com/company/maanox)
-- **Email**: [info@maanox.com](mailto:info@maanox.com)
+- **Email**: [hello@maanox.com](mailto:hello@maanox.com)
 
 ## 🤝 Get Involved
 
