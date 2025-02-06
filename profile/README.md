@@ -1,6 +1,6 @@
 # MaanOX
 
-![MaanOX Logo]([https://avatars.githubusercontent.com/u/114650690?s=200&v=4](https://avatars.githubusercontent.com/u/114650690?s=400&u=ca2871c499a10b162e6676f82a5efcddcef3cb28&v=4))
+![MaanOX Logo](https://avatars.githubusercontent.com/u/114650690?s=400&u=ca2871c499a10b162e6676f82a5efcddcef3cb28&v=4)
 
 Welcome to the official GitHub profile of **MaanOX**, a premier web development agency based in New York, USA. We specialize in crafting innovative, scalable, and user-friendly web solutions for clients around the globe.
 
